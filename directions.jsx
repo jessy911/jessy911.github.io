@@ -20,7 +20,7 @@ function DirEditorial() {
         <div>
           <div style={{ fontFamily: '"Geist Mono", monospace', fontSize: 11, color: 'oklch(0.48 0.012 60)', textTransform: 'uppercase', letterSpacing: '0.14em' }}>[01] · introduction</div>
           <h1 style={{ fontFamily: '"Instrument Serif", serif', fontWeight: 400, fontSize: 72, lineHeight: 1.02, margin: '14px 0 0' }}>
-            Learning my way into<br />VR / AR, <em style={{ fontStyle: 'italic' }}>one project</em><br />at a time.
+            Learning my way into<br />Visual Computing, <em style={{ fontStyle: 'italic' }}>one project</em><br />at a time.
           </h1>
           <p style={{ marginTop: 22, maxWidth: 500, fontSize: 14, lineHeight: 1.6, color: 'oklch(0.48 0.012 60)' }}>
             I'm Jessica — a Visual Computing master's student at TU Wien, currently on Erasmus in Leuven. I came from a computer engineering background and worked a few years at Porsche and Bosch.
