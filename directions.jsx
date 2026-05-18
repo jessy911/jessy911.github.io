@@ -75,7 +75,7 @@ function DirAtelier() {
             Leuven 50.88°N · 4.70°E
           </div>
           <h1 style={{ position: 'absolute', left: 28, bottom: 24, right: 28, margin: 0, fontFamily: '"Geist", sans-serif', fontWeight: 600, fontSize: 96, lineHeight: 0.95, letterSpacing: '-0.04em' }}>
-            Learning<br />my way into<br /><span style={{ color: accent }}>VR / AR.</span>
+            Learning<br />my way into<br /><span style={{ color: accent }}>visual computing.</span>
           </h1>
         </div>
         <div style={{ marginTop: 24, display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: 24, fontSize: 13, color: '#a89e8f', lineHeight: 1.55 }}>
@@ -107,7 +107,7 @@ function DirTerminal() {
             <span style={{ color: '#7a7669' }}>$ whoami</span><br />
             jessica rieger,<br />
             visual computing student,<br />
-            learning my way into <span style={{ background: '#1a1a1a', color: '#fafaf7', padding: '0 6px' }}>vr / ar</span>.
+            learning my way into <span style={{ background: '#1a1a1a', color: '#fafaf7', padding: '0 6px' }}>visual computing</span>.
           </div>
           <pre style={{ marginTop: 24, fontSize: 12, color: '#3a3a3a', whiteSpace: 'pre-wrap', fontFamily: 'inherit' }}>
 {`> location ........ Leuven, BE (Erasmus)
@@ -167,7 +167,7 @@ function DirNotebook() {
             Jessica<span style={{ color: accent }}>.</span>
           </h1>
           <p style={{ fontFamily: '"Fraunces", serif', fontSize: 22, lineHeight: 1.4, marginTop: 18, maxWidth: 540, color: ink }}>
-            I'm finding my way into <em style={{ fontWeight: 500, color: accent }}>VR / AR</em>, one project at a time — at TU Wien, on Erasmus in Leuven, and freelancing on the side.
+            I'm finding my way into <em style={{ fontWeight: 500, color: accent }}>Visual Computing</em>, one project at a time — at TU Wien, on Erasmus in Leuven, and freelancing on the side.
           </p>
           <p style={{ fontFamily: '"Geist", sans-serif', fontSize: 13.5, lineHeight: 1.65, marginTop: 14, maxWidth: 520, color: 'rgba(42,36,24,0.7)' }}>
             A computer engineer pivoting toward visual computing. Generalist, hands-on, eager to learn. Looking for an internship or working-student role where I can spend real hours on real problems.
