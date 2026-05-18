@@ -258,10 +258,10 @@ const COPY = {
     locale: 'de',
     nav: { work: 'Projekte', about: 'Über mich', cv: 'Lebenslauf', contact: 'Kontakt' },
     status: '2026',
-    role: 'Visual-Computing-Studentin · auf dem Weg in VR / AR',
+    role: 'Visual-Computing-Studentin · auf dem Weg zu Visual Computing',
     introKicker: '[01] · einleitung',
     heroH1pre: 'Learning my way into',
-    heroH1mid: 'VR / AR,',
+    heroH1mid: 'Visual Computing,',
     heroH1post: 'one project',
     heroH1end: 'at a time.',
     blurb:
